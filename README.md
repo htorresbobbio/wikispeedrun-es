@@ -2,7 +2,7 @@
   <img alt="Wikipedia logo with a speedrun timer on top of it" title="Wikipedia Speedrun Game" src="assets/logo.jpg" width="200">
 </p>
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/f4eab499-07b5-4170-9be4-e2f38f38bb49/deploy-status)](https://app.netlify.com/sites/wiki-speedrun-es/deploys)>
+[![Netlify Status](https://api.netlify.com/api/v1/badges/f4eab499-07b5-4170-9be4-e2f38f38bb49/deploy-status)](https://app.netlify.com/sites/wiki-speedrun-es/deploys)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 # 🏁 Wikipedia Speedrun Game - Spanish version
@@ -12,6 +12,7 @@ The goal of the game is to navigate from a starting wikipedia article to another
 Based on wikispeedrun by B0und found [Here](https://github.com/B0und/WikiSpeedrun)
 
 [Juega ahora / Start playing now! (Spanish version)](https://wiki-speedrun-es.netlify.app/)
+
 [Start playing now! (Original english version by B0und)](https://wikispeedrun.org/)
 
 ## Features
