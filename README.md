@@ -2,11 +2,8 @@
   <img alt="Wikipedia logo with a speedrun timer on top of it" title="Wikipedia Speedrun Game" src="assets/logo.jpg" width="200">
 </p>
 
-<p align="center">
-  [![Netlify Status](https://api.netlify.com/api/v1/badges/f4eab499-07b5-4170-9be4-e2f38f38bb49/deploy-status)](https://app.netlify.com/sites/wiki-speedrun-es/deploys)>
-  &nbsp
-  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-</p>
+[![Netlify Status](https://api.netlify.com/api/v1/badges/f4eab499-07b5-4170-9be4-e2f38f38bb49/deploy-status)](https://app.netlify.com/sites/wiki-speedrun-es/deploys)>
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 # 🏁 Wikipedia Speedrun Game - Spanish version
 
