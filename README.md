@@ -16,11 +16,12 @@
   </a>
 </p>
 
-# 🏁 Wikipedia Speedrun Game
+# 🏁 Wikipedia Speedrun Game - Spanish version
 
-The goal of the game is to navigate from a starting wikipedia article to another one, in the least amount of clicks and time.
+The goal of the game is to navigate from a starting wikipedia article to another one, in the least amount of clicks and time. This is based on wikispeedrun by B0und found [Here](https://github.com/B0und/WikiSpeedrun)
 
-[Start playing now!](https://wikispeedrun.org/)
+[Juega ahora / Start playing now! (Spanish version)](https://wiki-speedrun-es.netlify.app/)
+[Start playing now! (Original english version by B0und)](https://wikispeedrun.org/)
 
 ## Features
 

@@ -6,7 +6,7 @@ import { WikiHeader } from "./Wiki/WikiDisplay"
 function About() {
   return (
     <Wrapper>
-      <AboutHeader>Juego de Wiki Speedrun</AboutHeader>
+      <AboutHeader>Wiki Speedrun</AboutHeader>
       <p>
         El objetivo de este juego es navegar desde un artículo de wikipedia inicial hacia otro, en la menor cantidad de clicks y tiempo.
       </p>
