@@ -8,7 +8,7 @@ function About() {
     <Wrapper>
       <AboutHeader>Wiki Speedrun</AboutHeader>
       <p>
-        El objetivo de este juego es navegar desde un artículo de wikipedia inicial hacia otro, en la menor cantidad de clicks y tiempo.
+        El objetivo de este juego es navegar desde un artículo de wikipedia inicial hacia otro de destino, en la menor cantidad de clicks y tiempo.
       </p>
 
       <SecondaryHeading>Funciones</SecondaryHeading>
@@ -21,12 +21,12 @@ function About() {
         <li>
           Temporizador justo y de alta precisión
           <ul>
-            <li>se detiene mientras se carga el siguiente artículo</li>
+            <li>Se detiene mientras se carga el siguiente artículo</li>
           </ul>
         </li>
         <li>Tiempo límite opcional</li>
         <li>Mantiene el historial de tu avance en la sesión</li>
-        <li>Código Abierto</li>
+        <li>Código Abierto, versión original en inglés <a href="https://wikispeedrun.org/">wikispeedrun.org</a> por B0und</li>
       </FeatureList>
 
       <StyledLinkButton text="Jugar" to={"/settings"} />
