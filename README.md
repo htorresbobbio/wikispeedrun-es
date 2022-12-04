@@ -3,22 +3,16 @@
 </p>
 
 <p align="center">
-  <a href="#">
-    <img alt="Vercel deployments" src="https://img.shields.io/github/deployments/B0und/WikiSpeedrun/production?color=%231CAD4A&label=vercel&logo=vercel&logoColor=white&style=flat-square">
-  </a>
+  [![Netlify Status](https://api.netlify.com/api/v1/badges/f4eab499-07b5-4170-9be4-e2f38f38bb49/deploy-status)](https://app.netlify.com/sites/wiki-speedrun-es/deploys)>
   &nbsp
-  <a href="#">
-    <img alt="GitHub" src="https://img.shields.io/github/license/B0und/WikiSpeedrun?color=%231CAD4A&style=flat-square">
-  </a>
-  &nbsp
-  <a href="https://twitter.com/unbound_dev" target="_blank">
-    <img alt="Twitter" src="https://img.shields.io/twitter/url?label=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2Funbound_dev">
-  </a>
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 </p>
 
 # 🏁 Wikipedia Speedrun Game - Spanish version
 
-The goal of the game is to navigate from a starting wikipedia article to another one, in the least amount of clicks and time. This is based on wikispeedrun by B0und found [Here](https://github.com/B0und/WikiSpeedrun)
+The goal of the game is to navigate from a starting wikipedia article to another one, in the least amount of clicks and time.
+
+Based on wikispeedrun by B0und found [Here](https://github.com/B0und/WikiSpeedrun)
 
 [Juega ahora / Start playing now! (Spanish version)](https://wiki-speedrun-es.netlify.app/)
 [Start playing now! (Original english version by B0und)](https://wikispeedrun.org/)
@@ -55,7 +49,7 @@ This project was created with [Create React App](https://github.com/facebook/cre
 Clone the project:
 
 ```
-git clone https://github.com/B0und/WikiSpeedrun.git
+git clone https://github.com/htorresbobbio/wikispeedrun-es.git
 ```
 
 In the project directory you can run `npm i` and then:
