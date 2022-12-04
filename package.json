@@ -1,6 +1,7 @@
 {
   "name": "wiki-speedrun",
   "version": "0.1.0",
+  "homepage": "https://htorresbobbio.github.io/wikispeedrun-es",
   "private": true,
   "dependencies": {
     "@babel/core": "^7.16.7",
@@ -42,6 +43,8 @@
     "use-local-storage": "^2.3.6"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -68,6 +71,7 @@
   },
   "devDependencies": {
     "@welldone-software/why-did-you-render": "^6.2.3",
+    "gh-pages": "^4.0.0",
     "patch-package": "^6.4.7"
   }
 }
